@@ -19,3 +19,17 @@ variableTopicDeclarationInitialization.innerHTML = "Variable Declaration and Ini
 
 let variableTopicAssignment = document.getElementById("variable-assignment-link")
 variableTopicAssignment.innerHTML = "Variable Assignment"
+
+// Operators Topics
+let operatorTopicHeading = document.getElementById("operator-topic-heading")
+operatorTopicHeading.innerHTML = "Operators"
+
+// Operators Subtopics
+let operatorTopicIdentifierRule = document.getElementById("operator-arithmetic-link")
+operatorTopicIdentifierRule.innerHTML = "Arithmetic Operators"
+
+let operatorTopicDeclaration = document.getElementById("operator-comparision-link")
+operatorTopicDeclaration.innerHTML = "Comparision Operators"
+
+let operatorTopicAssignment = document.getElementById("operator-logical-link")
+operatorTopicAssignment.innerHTML = "Logical Operators"

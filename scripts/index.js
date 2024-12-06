@@ -33,3 +33,13 @@ operatorTopicDeclaration.innerHTML = "Comparision Operators"
 
 let operatorTopicAssignment = document.getElementById("operator-logical-link")
 operatorTopicAssignment.innerHTML = "Logical Operators"
+
+// Operators Subtopics
+let dataTypesTopicHeading = document.getElementById("data-types-topic-heading")
+dataTypesTopicHeading.innerHTML = "Data Types"
+
+let dataTypesPrimitive = document.getElementById("primitive-data-types-link")
+dataTypesPrimitive.innerHTML = "Primitive Data Types"
+
+let dataTypesNonPrimitive = document.getElementById("non-primitive-data-types-link")
+dataTypesNonPrimitive.innerHTML = "Non-Primitive Data Types"

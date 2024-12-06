@@ -1,8 +1,8 @@
-// Heading of webpage
-let pageHeading = document.getElementById("main-title")
-pageHeading.innerHTML = "Basic of Javascript"
+// Variable Page
 
-// Variable Section
+// Heading
+let pageVariableHeading = document.getElementById("variable-main-title")
+pageVariableHeading.innerHTML = "Variables in Javascript"
 
 // Variable Declaration
 let variableDeclarationHeading = document.getElementById("variable-declaration-title")
@@ -52,7 +52,3 @@ variableIdentifierRuleFourth.innerHTML = "<p>Identifier in Javascript are case s
 
 let variableIdentifierRuleNote = document.getElementById("rule-note")
 variableIdentifierRuleNote.innerHTML = "<p>Identifier must be meaningfull to logics</p>"
-
-// 
-// Case sensative
-// Must be meaningfull to logics

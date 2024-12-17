@@ -1,6 +1,6 @@
 // Heading of webpage
 let pageHeading = document.getElementById("main-title")
-pageHeading.innerHTML = "Basic of Javascript"
+pageHeading.innerHTML = "BASICS"
 
 // Topic Section
 // Variable Topics

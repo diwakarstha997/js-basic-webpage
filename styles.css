@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+}
+
+header,
+section {
+    background-color: yellow;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+header {
+    padding-top: 30px;
+    padding-bottom: 30px ;
+    margin-top: 5%;
+    border-radius: 20px 20px 0px 0px;
+}
+
+section {
+    border-radius: 0px 0px 20px 20px;
+    padding: 20px;
+    margin-bottom: 5%;
+}
+
+.content-style
+ {
+    border: 2px solid black;
+    margin: 5%;
+    padding: 2%;
+    border-radius: 20px;
+}
+
+/* Index page CSS */ 
+.js-logo {
+    width: 300px;
+    margin: auto;
+}
+
+#main-title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+
+/* Variables page CSS */ 
+.js-variables-logo{
+    width: 300px;
+    margin: auto;
+}
+
+.js-variables-logo > img {
+    border-radius: 20px;
+}
+
+#variable-main-title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+/* Operators page CSS */ 
+.js-operators-logo{
+    width: 300px;
+    margin: auto;
+}
+
+.js-operators-logo > img {
+    border-radius: 20px;
+}
+
+#operator-main-title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+/* Data types page CSS */ 
+.js-data-types-logo{
+    width: 300px;
+    margin: auto;
+}
+
+.gif-box {
+    display: flex;
+    justify-content: center;
+}
+
+#data-types-main-title {
+    font-size: 3rem;
+    text-align: center;
+}

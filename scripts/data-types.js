@@ -4,7 +4,7 @@
 let pageDataTypeHeading = document.getElementById("data-types-main-title")
 pageDataTypeHeading.innerHTML = "Data Types in Javascript"
 
-// Primitive Arithmetic
+// Primitive Data Types
 let dataTypePrimitiveHeading = document.getElementById("primitive-data-types-title")
 dataTypePrimitiveHeading.innerHTML = "Primitive Data Types" 
 
@@ -29,9 +29,13 @@ dataTypePrimitiveUndefined.innerHTML = "<strong>undefined</strong> for unassigne
 let dataTypePrimitiveSymbol = document.getElementById("primitive-data-types-7")
 dataTypePrimitiveSymbol.innerHTML = "<strong>symbol</strong> for unique identifiers."
 
-// Operator Comparision
+// Reference Data Types
 let dataTypeNonPrimitiveHeading = document.getElementById("non-primitive-data-types-title")
 dataTypeNonPrimitiveHeading.innerHTML = "Non-Primitive Data Types"
 
 let dataTypeNonPrimitiveObject = document.getElementById("non-primitive-data-type")
 dataTypeNonPrimitiveObject.innerHTML = "<strong>object</strong> for more complex data structures."
+
+// Memory Management Animation
+ let memoryManagementAnimationHeading = document.getElementById("memory-management-gif-heading")
+ memoryManagementAnimationHeading.innerText = "Memory Management Animation"

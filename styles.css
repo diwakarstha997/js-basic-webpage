@@ -1,4 +1,3 @@
-/* Index page CSS */ 
 body {
     background-color: black;
 }
@@ -17,12 +16,42 @@ header {
     border-radius: 20px 20px 0px 0px;
 }
 
+/* Index page CSS */ 
 .js-logo {
     width: 300px;
     margin: auto;
 }
 
 #main-title {
+    font-size: 3rem;
+    text-align: center;
+}
+
+section {
+    border-radius: 0px 0px 20px 20px;
+    padding: 20px;
+    margin-bottom: 5%;
+}
+
+.content-style
+ {
+    border: 2px solid black;
+    margin: 5%;
+    padding: 2%;
+    border-radius: 20px;
+}
+
+/* Variables page CSS */ 
+.js-variables-logo{
+    width: 300px;
+    margin: auto;
+}
+
+.js-variables-logo > img {
+    border-radius: 20px;
+}
+
+#variable-main-title {
     font-size: 3rem;
     text-align: center;
 }

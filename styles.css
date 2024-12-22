@@ -87,3 +87,14 @@ section {
     font-size: 3rem;
     text-align: center;
 }
+
+/* Data manipulation page CSS */ 
+.js-data-manipulation-logo{
+    width: 300px;
+    margin: auto;
+}
+
+#data-manipulation-main-title {
+    font-size: 3rem;
+    text-align: center;
+}

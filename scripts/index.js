@@ -34,7 +34,7 @@ operatorTopicDeclaration.innerHTML = "Comparision Operators"
 let operatorTopicAssignment = document.getElementById("operator-logical-link")
 operatorTopicAssignment.innerHTML = "Logical Operators"
 
-// Operators Subtopics
+// Data types Subtopics
 let dataTypesTopicHeading = document.getElementById("data-types-topic-heading")
 dataTypesTopicHeading.innerHTML = "Data Types"
 
@@ -43,3 +43,20 @@ dataTypesPrimitive.innerHTML = "Primitive Data Types"
 
 let dataTypesNonPrimitive = document.getElementById("non-primitive-data-types-link")
 dataTypesNonPrimitive.innerHTML = "Non-Primitive Data Types"
+
+
+// Data Manipulation
+let dataManipulationTopicHeading = document.getElementById("data-manipulation-topic-heading")
+dataManipulationTopicHeading.innerHTML = "Data Manipulation"
+
+let dataManipulationNumber = document.getElementById("number-data-manipulation-link")
+dataManipulationNumber.innerHTML = "Number Data Manipulation"
+
+let dataManipulationString = document.getElementById("string-data-manipulation-link")
+dataManipulationString.innerHTML = "String Data Manipulation"
+
+let dataManipulationArray = document.getElementById("array-data-manipulation-link")
+dataManipulationArray.innerHTML = "Array Data Manipulation"
+
+let dataManipulationObject = document.getElementById("object-data-manipulation-link")
+dataManipulationObject.innerHTML = "Object Data Manipulation"
